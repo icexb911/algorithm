@@ -1,3 +1,4 @@
+package com.main;
 public class Template {
     int binarySearch(int[] nums, int target) {
         if (nums == null) {
