@@ -18,6 +18,10 @@
 *.zip
 *.tar.gz
 *.rar
+*.lst
+*.txt
+*.prefs
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+onlinecourse/binarysearch/target/surefire-reports/TEST-com.binarysearch.AppTest.xml
