@@ -1,7 +1,7 @@
 package com.binarysearch;
 
 /**
- * <a link="https://www.lintcode.com/problem/first-position-of-target/description"/>
+ *  https://www.lintcode.com/problem/first-position-of-target/description"
  */
 public class FirstPositionOfTarget {
     /**
