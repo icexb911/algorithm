@@ -1,6 +1,6 @@
 package com.binarysearch;
 
-public class Template {
+public class BinarySearchTemplate {
     public int binarySearch(int[] nums, int target) {
         if (nums == null) {
             return -1;
